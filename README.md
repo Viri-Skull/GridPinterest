@@ -1,4 +1,5 @@
 # GridPinterest
-Simulation of Pinterest
+Pinterest Simulation
 
+Click here: 
 https://viri-skull.github.io/GridPinterest/
