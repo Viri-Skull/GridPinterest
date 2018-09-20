@@ -1,0 +1,2 @@
+# GridPinterest
+Simulation of Pinterest
